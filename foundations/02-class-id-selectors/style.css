@@ -1,0 +1,16 @@
+.myclass {
+    background-color: rgb(241, 85, 85);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#first {
+    color: hsl(240, 80%, 50%);
+    font-size: 36px;
+}
+#second {
+    background-color: #44fc44;
+    font-size: 24px;
+    font-weight: bold;
+}
+.def {
+    font-size: 24px;
+}
